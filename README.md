@@ -8,7 +8,8 @@ AXV Gaming Control Center transforms complicated command-line network configurat
 
 Designed for gamers who experience connection failures, unstable game sessions, or network filtering issues.
 
-![AXV Gaming Dashboard](assets/dashboard.png)
+![AXV Gaming Dashboard]  <img width="1196" height="884" alt="image" src="https://github.com/user-attachments/assets/1043c56d-c14a-4b0e-b5bf-794957942fef" />
+
 
 ## ✨ Features
 
